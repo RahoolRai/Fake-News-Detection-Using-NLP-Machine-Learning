@@ -9,6 +9,10 @@ This project was completed as part of the *AI Internship at Digipex Solutions LL
 To build an end-to-end, interpretable machine learning pipeline for classifying news articles based on their content, with the ability to detect fake news using linguistic patterns and statistical features.
 
 ---
+## 📰 1. Fake and Real News Dataset by clmentbisaillon
+✅ The one you just uploaded (Fake.csv and True.csv)
+🔗 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+---
 
 ## 🔍 What Was Delivered
 - ✅ Full text classification pipeline from raw text to prediction
